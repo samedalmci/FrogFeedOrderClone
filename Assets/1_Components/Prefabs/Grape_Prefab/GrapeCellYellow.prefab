@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1192546437155514157
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 65903151606085039, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 21e36f3b5010f1348a6e87d309004fb8, type: 2}
+    - target: {fileID: 106214007878018674, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 106214007878018674, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 106214007878018674, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 106214007878018674, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 106214007878018674, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 106214007878018674, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 106214007878018674, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 106214007878018674, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 106214007878018674, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 106214007878018674, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1170913024716660586, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: CellAnimator
+      value: 
+      objectReference: {fileID: 8416784877303498949}
+    - target: {fileID: 1170913024716660586, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: objectToCreate
+      value: 
+      objectReference: {fileID: 6512136619309613560, guid: 728fd46d0b9aec8419cc89746f812b50, type: 3}
+    - target: {fileID: 2438323876892626402, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: frogTouch
+      value: 
+      objectReference: {fileID: 4204813188342721326, guid: 006d721341321e34e87f63a8c4180a79, type: 3}
+    - target: {fileID: 2438323876892626402, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: frogColorTag
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3839026480376551285, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: m_TagString
+      value: Yellow
+      objectReference: {fileID: 0}
+    - target: {fileID: 4823457925664353719, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7f50a3bc398a550468ae17c042076e99, type: 2}
+    - target: {fileID: 7075418114020922921, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+      propertyPath: m_Name
+      value: GrapeCellYellow
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+--- !u!95 &8416784877303498949 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 7224525777897910248, guid: b9aabe8d379a0ea48a6bba63fbc93d66, type: 3}
+  m_PrefabInstance: {fileID: 1192546437155514157}
+  m_PrefabAsset: {fileID: 0}
