@@ -8,6 +8,9 @@ Frog Feed Order Clone Game, Unity 2022 LTS kullanılarak geliştirilmiş bir 3D 
 
 Bu proje, 3D Puzzle oyunu "Frog Feed Order"ın bir klonunu geliştirme amacıyla hayata geçirilmiştir. Oyun, kare düğümlerden oluşan bir harita üzerinde kurbağaları beslemeyi hedefler. Her düğüm bir hücre içerir ve bu hücrelerde dört farklı renk varyasyonuna sahip Kurbağa, Ok veya Berry bulunabilir. Oyuncular, doğru sırayla kurbağaları besleyerek oyunu kazanmayı amaçlar.
 
+![Screenshot 2024-07-23 003809 (1)](https://github.com/user-attachments/assets/52642ab7-c8c2-4b28-a735-dbe9d6c58a15)
+![Screenshot 2024-07-23 003924 (1)](https://github.com/user-attachments/assets/8229dd54-27cf-46f9-b25e-4e4b285543b9)
+
 📌 Projenin Özellikleri:
 
 - **Harita Düzeni**: Kare düğümlerden oluşan bir harita.
@@ -19,6 +22,7 @@ Bu proje, 3D Puzzle oyunu "Frog Feed Order"ın bir klonunu geliştirme amacıyla
 - **Seviye Çeşitliliği**: En az üç farklı seviye bulunmaktadır.
 - **Görseller ve Varlıklar**: Sağlanan varlıklar kullanılarak etkileyici bir görsel deneyim sunar.
 - **Ortogratik Kamera**: Ana kamera ortografik projeksiyon kullanır ve oyun tahtasını net bir şekilde görüntüler.
+![Screenshot 2024-07-23 004403 (1)](https://github.com/user-attachments/assets/514e21fc-d34d-4aa9-ba2e-736b6cc1c650)
 
 📌 Projenin Amaç ve Hedefleri:
 
@@ -28,9 +32,7 @@ Bu proje, 3D Puzzle oyunu "Frog Feed Order"ın bir klonunu geliştirme amacıyla
 
 ## Unity Kodları
 1. **Depoyu Klonlayın**:
-  
-![Screenshot 2024-07-23 004846](https://github.com/user-attachments/assets/9f947ddc-d992-412d-af3f-550f3f544081)
-![Screenshot 2024-07-23 004627](https://github.com/user-attachments/assets/70b9e6f5-cd3a-4a63-bc01-4f66d9cca48d)
-![Screenshot 2024-07-23 004403](https://github.com/user-attachments/assets/00b90ea5-ea14-4328-aa15-52c9c696afdd)
-![Screenshot 2024-07-23 003924](https://github.com/user-attachments/assets/193b6c4e-c19d-40f7-bedf-156018f0f14f)
-![Screenshot 2024-07-23 003809](https://github.com/user-attachments/assets/afb6bb77-cca4-4bf1-9ae9-4bd63279245e)
+![Screenshot 2024-07-23 004627](https://github.com/user-attachments/assets/0c2adeec-cc33-4c32-ac89-8d7b232f60ff)
+![Screenshot 2024-07-23 004846 ](https://github.com/user-attachments/assets/bcbb9423-cb36-45b8-9c96-b7b26d5551f8)
+
+
