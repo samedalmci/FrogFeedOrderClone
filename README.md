@@ -22,6 +22,7 @@ Bu proje, 3D Puzzle oyunu "Frog Feed Order"ın bir klonunu geliştirme amacıyla
 - **Seviye Çeşitliliği**: En az üç farklı seviye bulunmaktadır.
 - **Görseller ve Varlıklar**: Sağlanan varlıklar kullanılarak etkileyici bir görsel deneyim sunar.
 - **Ortogratik Kamera**: Ana kamera ortografik projeksiyon kullanır ve oyun tahtasını net bir şekilde görüntüler.
+  
 ![Screenshot 2024-07-23 004403 (1)](https://github.com/user-attachments/assets/514e21fc-d34d-4aa9-ba2e-736b6cc1c650)
 
 📌 Projenin Amaç ve Hedefleri:
