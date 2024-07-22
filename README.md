@@ -32,7 +32,7 @@ Bu proje, 3D Puzzle oyunu "Frog Feed Order"ın bir klonunu geliştirme amacıyla
 
 ## Unity Kodları
 1. **Depoyu Klonlayın**:
-![Screenshot 2024-07-23 004627](https://github.com/user-attachments/assets/0c2adeec-cc33-4c32-ac89-8d7b232f60ff)
-![Screenshot 2024-07-23 004846 ](https://github.com/user-attachments/assets/bcbb9423-cb36-45b8-9c96-b7b26d5551f8)
+
+![Screenshot 2024-07-23 004627](https://github.com/user-attachments/assets/0c2adeec-cc33-4c32-ac89-8d7b232f60ff) ![Screenshot 2024-07-23 004846 ](https://github.com/user-attachments/assets/bcbb9423-cb36-45b8-9c96-b7b26d5551f8)
 
 
